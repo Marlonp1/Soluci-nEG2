@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c15a2a37-f8f6-438a-af63-f2eb6a43a89e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SolucionESG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logica/EcuacionSegundoGrado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/TestEcuacionSegundoGrado.py" afterDir="false" />
-    </list>
+    <list default="true" id="c15a2a37-f8f6-438a-af63-f2eb6a43a89e" name="Changes" comment="Solución de la ecuación de segundo grado - Raices Reales" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in TestEcuacionSegundoGrado.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -88,7 +79,20 @@
       <option name="presentableId" value="Default" />
       <updated>1715812151136</updated>
     </task>
+    <task id="LOCAL-00001" summary="Solución de la ecuación de segundo grado - Raices Reales">
+      <option name="closed" value="true" />
+      <created>1715814125731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715814125731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solución de la ecuación de segundo grado - Raices Reales" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solución de la ecuación de segundo grado - Raices Reales" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
