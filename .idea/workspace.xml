@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c15a2a37-f8f6-438a-af63-f2eb6a43a89e" name="Changes" comment="Solución de la ecuación de segundo grado - Raices Reales" />
+    <list default="true" id="c15a2a37-f8f6-438a-af63-f2eb6a43a89e" name="Changes" comment="Se solucionó la cantidad de decimales para los resultados">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/TestEcuacionSegundoGrado.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestEcuacionSegundoGrado.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,12 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715814125731</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Se solucionó la cantidad de decimales para los resultados">
+      <option name="closed" value="true" />
+      <created>1715815342020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715815342020</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solución de la ecuación de segundo grado - Raices Reales" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solución de la ecuación de segundo grado - Raices Reales" />
+    <MESSAGE value="Se solucionó la cantidad de decimales para los resultados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se solucionó la cantidad de decimales para los resultados" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
